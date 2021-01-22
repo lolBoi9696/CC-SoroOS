@@ -38,3 +38,4 @@
 - How to:
   - [Make a easy operating system and change the boot loader to make it run your os instead of SoroOS](HowToOS.md)
   
+[Back](../)
