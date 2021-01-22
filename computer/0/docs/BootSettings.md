@@ -1,4 +1,0 @@
-# BootSettings
-
-
-[Back](../)

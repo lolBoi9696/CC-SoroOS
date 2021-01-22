@@ -1,4 +1,0 @@
-# LuaEditor
-
-
-[Back](../)
