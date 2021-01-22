@@ -2,39 +2,39 @@
 ## This is the docs for SoroOS 
 
 - APIS:
-  - [WindowAPI](docs/WindowAPI.md)
+  - [WindowAPI](WindowAPI.md)
 
-  - [GameAPI](docs/GameAPI.md)
+  - [GameAPI](GameAPI.md)
 
-  - [JsonReader](docs/JsonReader.md)
+  - [JsonReader](JsonReader.md)
 
-  - [JsonWriter](docs/JsonWriter.md)
+  - [JsonWriter](JsonWriter.md)
 
-  - [MonitorAPI](docs/MonitorAPI.md)
+  - [MonitorAPI](MonitorAPI.md)
 
-  - [PixelAPI](docs/PixelAPI.md)
+  - [PixelAPI](PixelAPI.md)
 
-  - [BufferAPI](docs/BufferAPI.md)
+  - [BufferAPI](BufferAPI.md)
 
-  - [DrawAPI](docs/DrawAPI.md)
+  - [DrawAPI](DrawAPI.md)
 
-  - [ProgramAPI](docs/ProgramAPI.md)
+  - [ProgramAPI](ProgramAPI.md)
 
-  - [SettingsAPI](docs/SettingsAPI.md)
+  - [SettingsAPI](SettingsAPI.md)
 
 - PROGRAMS:
-  - [BootSettings](docs/BootSettings.md)
+  - [BootSettings](BootSettings.md)
   
-  - [HelpProgram](docs/HelpProgram.md)
+  - [HelpProgram](HelpProgram.md)
 
-  - [InstallerProgram](docs/InstallerProgram.md)
+  - [InstallerProgram](InstallerProgram.md)
   
-  - [CCShell](docs/CCShell.md)
+  - [CCShell](CCShell.md)
   
-  - [UpdateOS Program](docs/Updater.md)
+  - [UpdateOS Program](Updater.md)
   
-  - [Lua Editor](docs/Lua.md)
+  - [Lua Editor](Lua.md)
   
 - How to:
-  - [Make a easy operating system and change the boot loader to make it run your os instead of SoroOS](docs/HowToOS.md)
+  - [Make a easy operating system and change the boot loader to make it run your os instead of SoroOS](HowToOS.md)
   
