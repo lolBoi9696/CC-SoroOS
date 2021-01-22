@@ -2,6 +2,11 @@
 # How to use
 **its just simple you can use it just like how you would use windows/linux or any other computercraft operating systems.**
 
+Versions | Release Date
+------------ | -------------
+NaN | NaN
+NaN | NaN
+
 # How to Install?
 Its very easy to install all you need to do is get the installer and run it with these two commands.
 
