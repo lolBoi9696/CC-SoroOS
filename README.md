@@ -15,6 +15,9 @@ Its very easy to install all you need to do is get the installer and run it with
   startup.lua
 ```
 
+Or install it manually by grabbing the source code and put it in "%appdata%/.minecraft/saves/%yourworld%/computercraft/%yourcomputerid%/"
+[you can get the source code here](https://github.com/lolBoi9696/CC-SoroOS/releases)
+
 ![Gameplay](/images/)
 
 # Features
