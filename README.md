@@ -62,7 +62,7 @@ Or install it manually by grabbing the source code and put it in "%appdata%/.min
         - [ ] Multiple Lua Files
         - [ ] Projects
   - [ ] Extra Features:
-    - Extra Features That You Can Enable In The Installer (BEWARE THIS WILL MAKE THIS TAKE UP MORE SPACE)
+    - [ ] Extra Features That You Can Enable In The Installer (BEWARE THIS WILL MAKE THIS TAKE UP MORE SPACE)
     - [ ] Packages:
       - [ ] Helpers:
           - [ ] GameAPI:
