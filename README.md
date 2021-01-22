@@ -11,7 +11,6 @@ Its very easy to install all you need to do is get the installer and run it with
 ```
 
 ![Gameplay](/images/)
-Format: ![Alt Text](Gameplay) 
 
 # Features
 - [ ] Core:
