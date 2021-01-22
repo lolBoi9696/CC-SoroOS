@@ -7,7 +7,7 @@ Versions | Release Date
 NaN | NaN
 NaN | NaN
 
-[The Documentation](/docs/)
+[The Documentation](docs/)
 
 ## How to Install?
 Its very easy to install all you need to do is get the installer and run it with these two commands.
