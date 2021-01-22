@@ -3,7 +3,15 @@
 **its just simple you can use it just like how you would use windows/linux or any other computercraft operating systems.**
 
 # How to Install?
+Its very easy to install all you need to do is get the installer and run it with these two commands.
 
+```
+  pastebin get Coming Soon startup.lua
+  startup.lua
+```
+
+![Gameplay](/images/)
+Format: ![Alt Text](Gameplay) 
 
 # Features
 - [ ] Core:
