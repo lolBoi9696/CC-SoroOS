@@ -1,4 +1,0 @@
-# GameAPI
-
-
-[Back](../)
