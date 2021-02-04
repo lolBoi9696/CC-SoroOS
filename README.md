@@ -24,11 +24,11 @@ Or install it manually by grabbing the source code and put it in "%appdata%/.min
 
 ## Features
 - [ ] Core:
-  - [+] Installer:
-    - [+] Install OS
-    - [+] Update OS
-    - [+] Reinstall OS
-    - [+] Delete OS
+  - [x] Installer:
+    - [x] Install OS
+    - [x] Update OS
+    - [x] Reinstall OS
+    - [x] Delete OS
   - [ ] BIOS:
     - [ ] Bootloader:
       - [ ] OSFinder (which means you can route a custom os to it lol)
