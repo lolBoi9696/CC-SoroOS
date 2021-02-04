@@ -13,8 +13,8 @@ NaN | NaN
 Its very easy to install all you need to do is get the installer and run it with these two commands.
 
 ```
-  pastebin get Coming Soon startup.lua
-  startup.lua
+  pastebin get hxKNquB6 install.lua
+  install.lua
 ```
 
 Or install it manually by grabbing the source code and put it in "%appdata%/.minecraft/saves/%yourworld%/computercraft/%yourcomputerid%/"
