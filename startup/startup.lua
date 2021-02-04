@@ -1,4 +1,4 @@
-local OSFind = require("OS/OSFine")
+local OSFind = require("OS/OSFind")
 
 local notFound = OSFind.lookForOSInFolder("/boot")
 
